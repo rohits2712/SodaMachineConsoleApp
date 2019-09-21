@@ -1,0 +1,6 @@
+C:\Users\rohit\Desktop\SodaMachine\SodaMachineConsoleApp\SodaMachineConsoleApp\bin\Release\SodaMachineConsoleApplication.exe
+C:\Users\rohit\Desktop\SodaMachine\SodaMachineConsoleApp\SodaMachineConsoleApp\bin\Release\SodaMachineConsoleApplication.pdb
+C:\Users\rohit\Desktop\SodaMachine\SodaMachineConsoleApp\SodaMachineConsoleApp\obj\x86\Release\SodaMachineConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rohit\Desktop\SodaMachine\SodaMachineConsoleApp\SodaMachineConsoleApp\obj\x86\Release\SodaMachineConsoleApplication.exe
+C:\Users\rohit\Desktop\SodaMachine\SodaMachineConsoleApp\SodaMachineConsoleApp\obj\x86\Release\SodaMachineConsoleApplication.pdb
+C:\Users\rohit\Desktop\SodaMachine\SodaMachineConsoleApp\SodaMachineConsoleApp\obj\x86\Release\SodaMachineConsoleApp.csprojAssemblyReference.cache
